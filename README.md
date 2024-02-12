@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **souls games!**
 
-- 📫 How to reach me **williamandrew15@gmail.com**
+- 📫 How to reach me **williamandrewdavis15@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1yuPgG9n9VFedGQsnT7gFlRtO3KssaAya/edit?usp=sharing&ouid=101887609595811585633&rtpof=true&sd=true](https://docs.google.com/document/d/1yuPgG9n9VFedGQsnT7gFlRtO3KssaAya/edit?usp=sharing&ouid=101887609595811585633&rtpof=true&sd=true)
 
