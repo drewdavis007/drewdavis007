@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drew Davis</h1>
 <h3 align="center">A software engineering student from the United States!</h3>
 
-- 🔭 I’m currently working on **an e-commerce website**
+- 🔭 I’m currently working on **an academia website & a turn based game**
 
 - 🌱 I’m currently learning **javascript!**
 
@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **a pirate-esque souls game!**
 
-- 💬 Ask me about **souls games!**
+- 💬 Ask me about **pokemon!**
 
 - 📫 How to reach me **williamandrewdavis15@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1yuPgG9n9VFedGQsnT7gFlRtO3KssaAya/edit?usp=sharing&ouid=101887609595811585633&rtpof=true&sd=true](https://docs.google.com/document/d/1yuPgG9n9VFedGQsnT7gFlRtO3KssaAya/edit?usp=sharing&ouid=101887609595811585633&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1ZWr7HRj8IbumchdMzByTv0Meo1N-AXzDcAt_WxPEbyQ/edit?usp=sharing&ouid=101887609595811585633&rtpof=true&sd=true](https://docs.google.com/document/d/1ZWr7HRj8IbumchdMzByTv0Meo1N-AXzDcAt_WxPEbyQ/edit?usp=sharing&ouid=101887609595811585633&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love Jesus!**
 
