@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Drew Davis</h1>
 <h3 align="center">A software engineering student from the United States!</h3>
 
-- 🔭 I’m currently working on **an academia website & a turn based game**
+- 🔭 I’m currently working on **a med spa website**
 
-- 🌱 I’m currently learning **javascript!**
+- 🌱 I’m currently learning **web dev!**
 
 - 👯 I’m looking to collaborate on **small projects to get experience**
 
